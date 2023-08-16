@@ -3,6 +3,8 @@
             height: 24px;
             background-image: url(../imagens/Menu.svg.png);
             display: inline-block;
+            background-repeat: no-repeat;
+            background-position: center;
         }
         .cabelçalho{
             background-color: var(--branco);

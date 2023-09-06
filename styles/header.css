@@ -29,4 +29,6 @@
         }
         .div-menu:checked ~.lista-menu{
             display: block;
+            position: absolute;
+            top: 100%;
         }

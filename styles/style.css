@@ -3,10 +3,14 @@
 
 :root {
       --cor-de-fundo: #ebecee;
+
       --branco: #FFFFFF;
-      --fonte-principal:"Poppins";
+
       --amarelo: #FECD2F;
+
       --roxo: #733887;
+
+      --fonte-principal:"poppins";
 }
 
 body {

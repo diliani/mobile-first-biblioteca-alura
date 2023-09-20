@@ -39,9 +39,13 @@
 }
 .lista-menu-link{
     background: var(--roxo);
-    background-clip: text; 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
     text-transform: uppercase;
-    -webkit-background-clip: 
+}
+.div-menu{
+    display: none;
 }
         @media screen and (min-width:1024px) {
             h1 {

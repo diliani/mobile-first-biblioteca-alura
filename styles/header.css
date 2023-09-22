@@ -28,7 +28,7 @@ h1{
     top: 100%;
 }
 
-.lista-menu_titulo,.lista-menu_item{
+.lista-menu_titulo,.lista-menu-item{
     padding: 1em;
     background-color: var(--branco);
 }

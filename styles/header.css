@@ -33,7 +33,7 @@ h1{
     background-color: var(--branco);
 }
 
-.lista-menu-titulo{
+.lista-menu_titulo{
     color: var(--amarelo);
     font-weight: 700;
 }
